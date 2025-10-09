@@ -4,6 +4,10 @@ This folder contains projects focused on building inclusive and accessible web p
 
 ## Projects
 
+### Code Journey Blog Page
+**Description**:  
+Debug and fix accessibility issues in a coding blog page using semantic HTML and ARIA improvements.
+
 ### Checkout Page
 **Description**:  
 Create an accessible checkout page using proper semantic structure. Practice using `alt` attributes for images and introducing ARIA roles to improve the experience for screen reader users.

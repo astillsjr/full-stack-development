@@ -4,33 +4,33 @@ A structured collection of small projects created while learning CSS and web dev
 
 ## Project Categories
 
-### 🧾 Basic CSS
+### Basic CSS
 - [Cafe Menu](basic-css/cafe-menu/)
 
-### 📐 Absolute and Relative Units
+### Absolute and Relative Units
 
-### 🎯 Pseudo Classes and Elements
+### Pseudo Classes and Elements
 
-### 🎨 Colors
+### Colors
 
-### 📝 Styling Forms
+### Styling Forms
 
-### 📦 The Box Model
+### The Box Model
 
-### 🧲 Flexbox
+### Flexbox
 
-### 🔤 Typography
+### Typography
 
-### ♿ Accessibility
+### Accessibility
 
-### 📍 Positioning
+### Positioning
 
-### 🏷️ Attribute Selectors
+### Attribute Selectors
 
-### 📱 Responsive Design
+### Responsive Design
 
-### ⚙️ Variables
+### Variables
 
-### 🧮 Grid
+### Grid
 
-### 🎞️ Animations
+### Animations
