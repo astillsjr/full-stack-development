@@ -4,11 +4,11 @@ This folder contains projects focused on using semantic HTML elements to structu
 
 ## Projects
 
-### 🐾 Cat Blog Page
+### Cat Blog Page
 **Description**:  
 Build an HTML-only blog page using semantic elements including `<main>`, `<nav>`, `<article>`, and `<footer>`. This project focuses on improving page structure and organization through meaningful markup.
 
-### 🎪 Event Hub
+### Event Hub
 **Description**:  
 Create an event listing web page and reinforce your understanding of semantic HTML elements such as `<header>`, `<nav>`, `<article>`, and more. This lab emphasizes accessibility and logical page structure.
 
