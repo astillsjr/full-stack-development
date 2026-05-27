@@ -8,6 +8,7 @@ A structured collection of small projects created while learning HTML and web de
 - [Curriculum Outline](basic-html/curriculum-outline/)
 - [Cat Photo App](basic-html/cat-photo-app/)
 - [Recipe Page](basic-html/recipe-page/)
+- [Bookstore Page](basic-html/bookstore-page/)
 - [Travel Agency Page](basic-html/travel-agency-page/)
 - [Heart Icon](basic-html/heart-icon/)
 - [Video Compilation Page](basic-html/video-compilation-page/)
