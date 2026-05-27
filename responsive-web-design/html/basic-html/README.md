@@ -16,6 +16,10 @@ Practice working with essential HTML elements including headings, paragraphs, im
 **Description**:  
 Reinforce HTML basics by building a web page for your favorite recipe. Includes an HTML boilerplate and usage of headings, lists, and images.
 
+### Bookstore Page
+**Description**:  
+Build a bookstore page by creating book cards that display information about different books. Practice organizing content using `<div>` elements, classes, and IDs.
+
 ### Travel Agency Page
 **Description**:  
 Create a promotional web page for a travel agency. This project includes images, the `<figure>` and `<figcaption>` elements, as well as anchor links.
