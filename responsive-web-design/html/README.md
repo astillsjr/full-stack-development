@@ -14,6 +14,7 @@ A structured collection of small projects created while learning HTML and web de
 - [Video Player](basic-html/video-player/)
 - [Audio and Video Player](basic-html/audio-video-player/)
 - [Heart Icon](basic-html/heart-icon/)
+- [Video Display](basic-html/video-display/)
 - [Video Compilation Page](basic-html/video-compilation-page/)
 
 ### Semantic HTML
