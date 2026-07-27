@@ -10,6 +10,8 @@ A structured collection of small projects created while learning HTML and web de
 - [Recipe Page](basic-html/recipe-page/)
 - [Bookstore Page](basic-html/bookstore-page/)
 - [Travel Agency Page](basic-html/travel-agency-page/)
+- [Music Player](basic-html/music-player/)
+- [Audio and Video Player](basic-html/audio-video-player/)
 - [Heart Icon](basic-html/heart-icon/)
 - [Video Compilation Page](basic-html/video-compilation-page/)
 

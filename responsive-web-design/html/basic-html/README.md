@@ -24,6 +24,10 @@ Build a bookstore page by creating book cards that display information about dif
 **Description**:  
 Create a promotional web page for a travel agency. This project includes images, the `<figure>` and `<figcaption>` elements, as well as anchor links.
 
+### Music Player
+**Description**:  
+Build a music player page using the HTML `<audio>` element. Practice embedding audio tracks with attributes like `controls` and `loop`.
+
 ### Audio and Video Player
 **Description**:  
 Learn how to embed media using the `<audio>` and `<video>` elements with controls and multiple source formats.
