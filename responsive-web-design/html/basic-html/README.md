@@ -28,6 +28,10 @@ Create a promotional web page for a travel agency. This project includes images,
 **Description**:  
 Build a music player page using the HTML `<audio>` element. Practice embedding audio tracks with attributes like `controls` and `loop`.
 
+### Video Player
+**Description**:  
+Build a video player page using the HTML `<video>` element. Practice embedding video with multiple `<source>` formats and attributes like `controls`, `loop`, `muted`, and `poster`.
+
 ### Audio and Video Player
 **Description**:  
 Learn how to embed media using the `<audio>` and `<video>` elements with controls and multiple source formats.
