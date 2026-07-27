@@ -34,7 +34,7 @@ Build a video player page using the HTML `<video>` element. Practice embedding v
 
 ### Audio and Video Player
 **Description**:  
-Learn how to embed media using the `<audio>` and `<video>` elements with controls and multiple source formats.
+Combine audio and video on one page using the `<audio>` and `<video>` elements. Practice adding `controls`, and use attributes like `loop` for playback behavior.
 
 ### Heart Icon
 **Description**:  
