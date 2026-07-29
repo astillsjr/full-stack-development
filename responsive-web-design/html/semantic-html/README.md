@@ -4,6 +4,10 @@ This folder contains projects focused on using semantic HTML elements to structu
 
 ## Projects
 
+### Web Browsers List
+**Description**:  
+Practice description lists (`<dl>`, `<dt>`, `<dd>`) by documenting major web browsers and a short note about each one.
+
 ### Cat Blog Page
 **Description**:  
 Build an HTML-only blog page using semantic elements including `<main>`, `<nav>`, `<article>`, and `<footer>`. This project focuses on improving page structure and organization through meaningful markup.

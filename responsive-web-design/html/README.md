@@ -18,6 +18,7 @@ A structured collection of small projects created while learning HTML and web de
 - [Video Compilation Page](basic-html/video-compilation-page/)
 
 ### Semantic HTML
+- [Web Browsers List](semantic-html/web-browsers-list/)
 - [Cat Blog Page](semantic-html/cat-blog-page/)
 - [Event Hub](semantic-html/event-hub/)
 
