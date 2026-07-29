@@ -8,6 +8,10 @@ This folder contains projects focused on using semantic HTML elements to structu
 **Description**:  
 Practice description lists (`<dl>`, `<dt>`, `<dd>`) by documenting major web browsers and a short note about each one.
 
+### Job Tips Page
+**Description**:  
+Practice semantic quoting with `<q>`, `<blockquote>`, and `<cite>` while structuring tips in `<main>` and `<section>` elements.
+
 ### Cat Blog Page
 **Description**:  
 Build an HTML-only blog page using semantic elements including `<main>`, `<nav>`, `<article>`, and `<footer>`. This project focuses on improving page structure and organization through meaningful markup.

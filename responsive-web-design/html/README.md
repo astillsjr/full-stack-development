@@ -19,6 +19,7 @@ A structured collection of small projects created while learning HTML and web de
 
 ### Semantic HTML
 - [Web Browsers List](semantic-html/web-browsers-list/)
+- [Job Tips Page](semantic-html/job-tips-page/)
 - [Cat Blog Page](semantic-html/cat-blog-page/)
 - [Event Hub](semantic-html/event-hub/)
 
