@@ -18,7 +18,7 @@ Practice structured tables by displaying final exam grades. Use `<caption>`, `<t
 
 ### Book Catalog Table
 **Description**:  
-Design a table-based catalog to display book information. Reinforce the use of `<thead>`, `<tbody>`, `<th>`, `<tr>`, and `<td>` to organize tabular data effectively.
+Design a table-based catalog to display book information. Reinforce `<thead>`, `<tbody>`, `<tfoot>`, `<th>`, `<tr>`, `<td>`, and `colspan` to organize tabular data.
 
 ---
 
