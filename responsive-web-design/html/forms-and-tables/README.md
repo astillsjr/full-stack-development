@@ -14,7 +14,7 @@ Create a survey form using semantic form elements. Review the use of `<label>`, 
 
 ### Final Exams Table
 **Description**:  
-Practice building structured tables by creating a table that displays final exam schedules. This project focuses on the correct use of table structure elements like `<table>`, `<tr>`, `<td>`, and `<th>`.
+Practice structured tables by displaying final exam grades. Use `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`, `<th>`, `<td>`, and `colspan` to organize the data.
 
 ### Book Catalog Table
 **Description**:  
