@@ -8,10 +8,6 @@ This folder contains projects focused on building and structuring HTML forms and
 **Description**:  
 Build a feedback form for a hotel using a variety of form elements. Practice with `<label>`, `<input>`, `<fieldset>`, `<legend>`, `<textarea>`, and `<button>` elements to create a user-friendly form layout.
 
-### Survey Form
-**Description**:  
-Create a survey form using semantic form elements. Review the use of `<label>`, different `<input>` types, and attributes like `required` to build accessible and functional forms.
-
 ### Final Exams Table
 **Description**:  
 Practice structured tables by displaying final exam grades. Use `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`, `<th>`, `<td>`, and `colspan` to organize the data.
