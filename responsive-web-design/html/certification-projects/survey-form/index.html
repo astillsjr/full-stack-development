@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <header>
+      <h1 id="title">Post-Undergraduate Status</h1>
+      <p id="description">Thank you for taking the time to share your experience</p>
+    </header>
+    <main>
+      <form id="survey-form">
+        <label for="name" id="name-label">Name</label>
+        <input required type="text" id="name" placeholder="Enter your name"/>
+        <br/>
+
+        <label for="email" id="email-label">Email</label>
+        <input required type="email" id="email" placeholder="email@example.com">
+        <br/>
+
+        <label for="number" id="number-label">Age (optional)</label>
+        <input type="number" id="number" placeholder="Age" min="10" max="120">
+
+        <p>What is your current status following your graduation?</p>
+
+        <input checked id="employed" type="radio" name="employment-status" value="employed">
+        <label for="employed">Currently employed</label>
+        <br/>
+        <input id="unemployed" type="radio" name="employment-status" value="unemployed">
+        <label for="unemployed">Currently unemployed</label>
+
+        <p>On a scale of 1-5, how satisfied are you with your current state?</p>
+
+        <select id="dropdown">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+
+        <p>What was your field of study?</p>
+
+        <input type="checkbox" id="stem" name="study" value="stem">
+        <label for="stem">STEM</label>
+
+        <input type="checkbox" id="social-behav" name="study" value="social-behav">
+        <label for="social-behav">Social and Behavioral Sciences</label>
+
+        <input type="checkbox" id="human-arts" name="study" value="human-arts">
+        <label for="human-arts">Humanities and Arts</label>
+
+        <input type="checkbox" id="business-prof" name="study" value="business-prof">
+        <label for="business-prof">Business and Professional Studies</label>
+
+        <input type="checkbox" id="health-human" name="study" value="health-human">
+        <label for="health-human">Health and Applied Human Sciences</label>
+
+        <p>Anything else you would like to share?</p>
+
+        <textarea cols="30" rows="5" name="comments" id="comments" placeholder="Feel free to discuss anything!"></textarea>
+        <br/>
+
+        <button type="submit" id="submit">Submit</button>
+      </form>
+    </main>
+  </body>
+</html>
