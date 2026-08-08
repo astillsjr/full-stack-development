@@ -12,6 +12,10 @@ Build an accessible coding blog with clear landmarks and heading order. Practice
 **Description**:  
 Build an accessible conference schedule table. Practice `<caption>`, `scope` on column and row headers, `<thead>` / `<tbody>`, and `colspan` for shared time slots.
 
+### Audio Controller
+**Description**:  
+Build accessible audio controls with buttons and a volume slider. Practice labeling a range input with `aria-labelledby` so screen readers announce both the control name and its purpose.
+
 ### Checkout Page
 **Description**:  
 Create an accessible checkout page using proper semantic structure. Practice using `alt` attributes for images and introducing ARIA roles to improve the experience for screen reader users.
