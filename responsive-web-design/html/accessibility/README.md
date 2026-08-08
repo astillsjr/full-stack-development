@@ -6,7 +6,7 @@ This folder contains projects focused on building inclusive and accessible web p
 
 ### Code Journey Blog Page
 **Description**:  
-Debug and fix accessibility issues in a coding blog page using semantic HTML and ARIA improvements.
+Build an accessible coding blog with clear landmarks and heading order. Practice `<header>`, `<nav>`, `<main>`, `<article>`, and `<footer>` so assistive tech can move through the page predictably.
 
 ### Checkout Page
 **Description**:  
