@@ -8,6 +8,10 @@ This folder contains projects focused on building inclusive and accessible web p
 **Description**:  
 Build an accessible coding blog with clear landmarks and heading order. Practice `<header>`, `<nav>`, `<main>`, `<article>`, and `<footer>` so assistive tech can move through the page predictably.
 
+### Tech Conference Schedule
+**Description**:  
+Build an accessible conference schedule table. Practice `<caption>`, `scope` on column and row headers, `<thead>` / `<tbody>`, and `colspan` for shared time slots.
+
 ### Checkout Page
 **Description**:  
 Create an accessible checkout page using proper semantic structure. Practice using `alt` attributes for images and introducing ARIA roles to improve the experience for screen reader users.

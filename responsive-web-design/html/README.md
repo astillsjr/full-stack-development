@@ -33,6 +33,7 @@ A structured collection of small projects created while learning HTML and web de
 
 ### Accessibility
 - [Code Journey Blog Page](accessibility/code-journey-blog-page/)
+- [Tech Conference Schedule](accessibility/tech-conference-schedule/)
 - [Checkout Page](accessibility/checkout-page/)
 - [Movie Review Page](accessibility/movie-review-page/)
 - [Multimedia Player](accessibility/multimedia-player/)
