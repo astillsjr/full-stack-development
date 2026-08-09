@@ -18,7 +18,7 @@ Build accessible audio controls with buttons and a volume slider. Practice label
 
 ### Checkout Page
 **Description**:  
-Create an accessible checkout page using proper semantic structure. Practice using `alt` attributes for images and introducing ARIA roles to improve the experience for screen reader users.
+Build an accessible checkout page with a cart section and payment form. Practice meaningful `alt` text, required fields, `aria-hidden` for decorative required markers, and `aria-describedby` for field help text.
 
 ### Movie Review Page
 **Description**:  
