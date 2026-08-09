@@ -26,7 +26,7 @@ Build a movie review page that demonstrates accessible design. You'll work with 
 
 ### Multimedia Player
 **Description**:  
-Create a simple multimedia player using HTML’s `<audio>` and `<video>` elements. Practice using the `controls` attribute and `aria-label` to ensure the player is accessible to users with screen readers.
+Build an accessible multimedia player with `<audio>` and `<video>`. Practice `controls`, `aria-label`, a captions `<track>`, and a text transcript for the video content.
 
 ---
 
