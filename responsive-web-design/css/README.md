@@ -8,6 +8,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Cafe Menu](basic-css/cafe-menu/)
 - [Business Card](basic-css/business-card/)
 - [Stylized To-Do List](basic-css/stylized-to-do-list/)
+- [Blog Post Card](basic-css/blog-post-card/)
 
 
 ### Absolute and Relative Units
