@@ -1,0 +1,33 @@
+html {
+  background-color: gray;
+}
+
+body {
+  padding: 50px 0;
+  margin: 0 auto;
+  width: 90vw;
+  min-height: calc(100vh - 100px);
+  background-color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+section {
+  text-align: center;
+  padding: 50px 5px;
+  vertical-align: top;
+  display: inline-block;
+  min-height: 100px;
+  width: 30%;
+}
+
+img {
+  width: 45%;
+}
+
+hr {
+  height: 2px;
+  width: 80%;
+  background-color: black;
+  border-color: black;
+}
