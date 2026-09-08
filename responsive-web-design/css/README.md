@@ -9,6 +9,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Business Card](basic-css/business-card/)
 - [Stylized To-Do List](basic-css/stylized-to-do-list/)
 - [Blog Post Card](basic-css/blog-post-card/)
+- [Event Flyer Page](basic-css/event-flyer-page/)
 
 
 ### Absolute and Relative Units

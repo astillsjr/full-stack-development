@@ -20,6 +20,10 @@ Build a To-Do list and apply different styles to the links. Explores properties 
 **Description**:  
 Design a blog post card using HTML and CSS. Works with properties like `background-color`, `border-radius`, `margins`, `paddings`, and more to create an aesthetically pleasing layout for blog content.
 
+### Event Flyer Page
+**Description**:  
+Build an event flyer with a centered layout. Practice viewport-based sizing (`vw`, `vh`), section widths, and basic spacing for a printable-style page.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.
