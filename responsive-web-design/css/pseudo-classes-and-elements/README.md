@@ -8,6 +8,10 @@ This folder contains projects focused on CSS pseudo-classes and pseudo-elements.
 **Description**:  
 Build an interactive greeting card. Practice `:hover`, `:active`, `:focus`, `:visited`, `:target`, and `::before` / `::after` for emoji accents and reveal sections.
 
+### Conference Form
+**Description**:  
+Style a parent-teacher conference form. Practice `:not()`, `::placeholder`, custom radio buttons with `::before` / `:checked`, and submit-button `:hover` states.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.
