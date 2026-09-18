@@ -15,6 +15,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Event Flyer Page](absolute-and-relative-units/event-flyer-page/)
 
 ### Pseudo Classes and Elements
+- [Greeting Card](pseudo-classes-and-elements/greeting-card/)
 
 ### Colors
 
