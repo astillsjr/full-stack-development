@@ -17,6 +17,7 @@ A structured collection of small projects created while learning CSS and web dev
 ### Pseudo Classes and Elements
 - [Greeting Card](pseudo-classes-and-elements/greeting-card/)
 - [Conference Form](pseudo-classes-and-elements/conference-form/)
+- [Job Application Form](pseudo-classes-and-elements/job-application-form/)
 
 ### Colors
 

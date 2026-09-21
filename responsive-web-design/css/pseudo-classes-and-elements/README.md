@@ -12,6 +12,10 @@ Build an interactive greeting card. Practice `:hover`, `:active`, `:focus`, `:vi
 **Description**:  
 Style a parent-teacher conference form. Practice `:not()`, `::placeholder`, custom radio buttons with `::before` / `:checked`, and submit-button `:hover` states.
 
+### Job Application Form
+**Description**:  
+Style a job application form. Practice `:valid` / `:invalid`, `:focus`, `:not()`, adjacent-sibling `:checked + label`, and button `:hover` feedback.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.
