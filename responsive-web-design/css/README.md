@@ -23,6 +23,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Colored Boxes](colors/colored-boxes/)
 
 ### Styling Forms
+- [Registration Form](styling-forms/registration-form/)
 
 ### The Box Model
 
