@@ -20,6 +20,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Job Application Form](pseudo-classes-and-elements/job-application-form/)
 
 ### Colors
+- [Colored Markers](colors/colored-markers/)
 
 ### Styling Forms
 
