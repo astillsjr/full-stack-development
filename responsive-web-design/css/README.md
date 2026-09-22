@@ -10,7 +10,6 @@ A structured collection of small projects created while learning CSS and web dev
 - [Stylized To-Do List](basic-css/stylized-to-do-list/)
 - [Blog Post Card](basic-css/blog-post-card/)
 
-
 ### Absolute and Relative Units
 - [Event Flyer Page](absolute-and-relative-units/event-flyer-page/)
 
@@ -21,6 +20,7 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### Colors
 - [Colored Markers](colors/colored-markers/)
+- [Colored Boxes](colors/colored-boxes/)
 
 ### Styling Forms
 
