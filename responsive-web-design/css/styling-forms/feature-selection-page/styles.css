@@ -1,0 +1,61 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;     
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+}
+
+.feature-card-container {
+  max-width: 700px;
+  padding: 20px;
+}
+
+.feature-card {
+  display: inline-block;
+  width: 300px;
+  margin: 12px 10px;
+  border: 2px solid #ccc;
+  border-radius: 12px;
+  padding: 10px;
+  text-align: right;
+  position: relative;
+  cursor: pointer;
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  transition: all 0.3s;
+  vertical-align: middle;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #5acd5e;
+  border-color: #4db050;
+}
+
+input[type="checkbox"]:checked::after {
+  content: "✓";
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  line-height: 20px;
+}
+
+.feature {
+  font-size: 1em;
+  text-align: center;
+}
+
+p {
+  font-size: 0.9em;
+  text-align: center;
+}
