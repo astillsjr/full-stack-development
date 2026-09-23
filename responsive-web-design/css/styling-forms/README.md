@@ -16,6 +16,10 @@ Build a centered contact form card. Practice flex centering, stacked labels/fiel
 **Description**:  
 Build a game settings card with custom checkboxes. Practice `appearance: none`, `:checked` styles, and a `::after` checkmark indicator.
 
+### Feature Selection Page
+**Description**:  
+Build selectable feature cards with custom checkboxes. Practice flex page centering, card layout, and `:checked` background/border styles.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.

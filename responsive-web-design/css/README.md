@@ -26,6 +26,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Registration Form](styling-forms/registration-form/)
 - [Contact Form](styling-forms/contact-form/)
 - [Game Settings Panel](styling-forms/game-settings-panel/)
+- [Feature Selection Page](styling-forms/feature-selection-page/)
 
 ### The Box Model
 
