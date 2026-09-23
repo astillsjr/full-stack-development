@@ -12,6 +12,10 @@ Build a dark-themed registration form. Practice form width constraints, stacked 
 **Description**:  
 Build a centered contact form card. Practice flex centering, stacked labels/fields, rounded inputs, and a submit button with `:hover` feedback.
 
+### Game Settings Panel
+**Description**:  
+Build a game settings card with custom checkboxes. Practice `appearance: none`, `:checked` styles, and a `::after` checkmark indicator.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.
