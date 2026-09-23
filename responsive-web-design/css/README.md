@@ -24,6 +24,7 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### Styling Forms
 - [Registration Form](styling-forms/registration-form/)
+- [Contact Form](styling-forms/contact-form/)
 
 ### The Box Model
 
