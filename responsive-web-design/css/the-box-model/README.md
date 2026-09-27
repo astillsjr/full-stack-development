@@ -8,6 +8,10 @@ This folder contains projects focused on the CSS box model. These exercises rein
 **Description**:  
 Recreate a Rothko-style painting inside a framed canvas. Practice padding, borders, margins, `overflow`, `box-shadow`, `border-radius`, and subtle `filter` / `transform` effects.
 
+### Confidential Email Page
+**Description**:  
+Style a confidential memo with stamped labels and redacted details. Practice `box-sizing: border-box`, padding, borders, margins, `inline-block` stamps with `transform: rotate()`, and `filter: blur()` for hidden text.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.

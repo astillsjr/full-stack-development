@@ -30,6 +30,7 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### The Box Model
 - [Rothko Painting](the-box-model/rothko-painting/)
+- [Confidential Email Page](the-box-model/confidential-email-page/)
 
 ### Flexbox
 
