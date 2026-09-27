@@ -29,6 +29,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Feature Selection Page](styling-forms/feature-selection-page/)
 
 ### The Box Model
+- [Rothko Painting](the-box-model/rothko-painting/)
 
 ### Flexbox
 
