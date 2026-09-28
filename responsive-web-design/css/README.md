@@ -33,6 +33,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Confidential Email Page](the-box-model/confidential-email-page/)
 
 ### Flexbox
+- [Photo Gallery](flexbox/photo-gallery/)
 
 ### Typography
 
