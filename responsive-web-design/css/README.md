@@ -34,6 +34,7 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### Flexbox
 - [Photo Gallery](flexbox/photo-gallery/)
+- [Colorful Boxes](flexbox/colorful-boxes/)
 
 ### Typography
 
