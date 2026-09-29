@@ -4,6 +4,9 @@ A structured collection of small projects created while learning CSS and web dev
 
 ## Project Categories
 
+### Certification Projects
+- [Playing Cards](certification-projects/playing-cards/)
+
 ### Basic CSS
 - [Cafe Menu](basic-css/cafe-menu/)
 - [Business Card](basic-css/business-card/)
