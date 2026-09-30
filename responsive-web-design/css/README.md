@@ -42,6 +42,7 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### Typography
 - [Nutrition Label](typography/nutrition-label/)
+- [Newspaper Article](typography/newspaper-article/)
 
 ### Accessibility
 
