@@ -41,6 +41,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Pricing Plans Page](flexbox/pricing-plans-page/)
 
 ### Typography
+- [Nutrition Label](typography/nutrition-label/)
 
 ### Accessibility
 
