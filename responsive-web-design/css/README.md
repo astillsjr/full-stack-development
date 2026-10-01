@@ -45,6 +45,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Newspaper Article](typography/newspaper-article/)
 
 ### Accessibility
+- [Quiz Webpage](accessibility/quiz-webpage/)
 
 ### Positioning
 
