@@ -1,0 +1,71 @@
+body {
+  height: 100%;
+  margin: 0;
+  background: url(https://images.wallpapersden.com/image/download/nasa-logo_bG1qaWiUmZqaraWkpJRnamtlrWZpaWU.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#main {
+  font-family: sans-serif;
+  width: 80%;
+  max-width: 1150px;
+  background-color: #eee;
+  color: #333;
+  margin: 10px auto;
+  padding: 30px 45px;
+  border-radius: 10px;
+}
+
+#title, #subtitle {
+  text-align: center;
+}
+
+#title {
+  font-size: 2.25rem;
+}
+
+#subtitle {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 1.1em;
+  margin: 5px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.timeline {
+  font-size: 1.05em;
+  padding: 0 10%;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#additional-info {
+  font-size: 1.1em;
+  text-align: center;
+}
+
+#tribute-link {
+  color: #477ca7;
+}
