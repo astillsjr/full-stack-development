@@ -46,6 +46,7 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### Accessibility
 - [Quiz Webpage](accessibility/quiz-webpage/)
+- [Tribute Page](accessibility/tribute-page/)
 
 ### Positioning
 
