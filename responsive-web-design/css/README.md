@@ -49,6 +49,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Tribute Page](accessibility/tribute-page/)
 
 ### Positioning
+- [Cat Painting](positioning/cat-painting/)
 
 ### Attribute Selectors
 
