@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(#b3e6ff, #b3e6ff 60%, green 60%);
+}
+
+#house {
+  position: relative;
+  top: 100px;
+  width: 500px;
+  height: 400px;
+  background-color: #e7d19d;
+  border: 2px solid black;
+  align-items: center;
+}
+
+#chimney {
+  position: absolute;
+  width: 90px;
+  height: 150px;
+  top: -250px;
+  left: 75%;
+  background: repeating-linear-gradient(#e6e6e6, #e6e6e6 10%, black 10%, black 12%);
+  border: 2px solid black;
+  z-index: -1;
+}
+
+#smoke {
+  width: 40px;
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: -20px;
+  left: 20px;
+  border-radius: 50%;
+  box-shadow: 0 -10px 10px 10px rgba(0, 0, 0, 0.3);
+  border: none;
+}
+
+#roof {
+  position: absolute;
+  width: 0;
+  height: 0;
+  top: -350px;
+  left: -50px;
+  z-index: 0;
+  border-top-left-radius: 90px;
+  border-top-right-radius: 10px;
+  border-left: 300px solid transparent;
+  border-right: 300px solid transparent;
+  border-bottom: 350px solid black;
+  background-color: transparent;
+}
+
+#inner-roof {
+  position: absolute;
+  top: -347px;
+  left: -48px;
+  z-index: 1;
+  border-top-left-radius: 90px;
+  border-top-right-radius: 10px;
+  border-left: 298px solid transparent;
+  border-right: 298px solid transparent;
+  border-bottom: 346px solid #96242c;
+  background-color: transparent;
+}
+
+#window-1 {
+  position: absolute;
+  top: 75px;
+  left: 75px;
+  width: 100px;
+  height: 100px;
+  border: 6px solid #78210e;
+  /* border-bottom: 10px solid #c87839; */
+  background-color: #8dbff3;
+  z-index: 1;
+}
+
+#window-2 {
+  position: absolute;
+  top: 75px;
+  left: 325px;
+  width: 100px;
+  height: 100px;
+  border: 6px solid #78210e;
+  /* border-bottom: 10px solid #c87839; */
+  background-color: #8dbff3;
+  z-index: 1;
+}
+
+#door {
+  width: 130px;
+  height: 180px;
+  position: absolute;
+  bottom: 0%;
+  left: 185px;
+  background-color: #bf7a37;
+  border: 2px solid black;
+  transform: translateY(2px);
+}
+
+#door-knob {
+  width: 20px;
+  height: 20px;
+  background-color: #fed487;
+  border: 2px solid black;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  right: 5%;
+}
