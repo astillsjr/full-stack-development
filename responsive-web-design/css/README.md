@@ -53,6 +53,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [House Painting](positioning/house-painting/)
 
 ### Attribute Selectors
+- [Balance Sheet](attribute-selectors/balance-sheet/)
 
 ### Responsive Design
 
