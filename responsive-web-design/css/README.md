@@ -6,6 +6,7 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### Certification Projects
 - [Playing Cards](certification-projects/playing-cards/)
+- [Book Inventory App](certification-projects/book-inventory-app/)
 
 ### Basic CSS
 - [Cafe Menu](basic-css/cafe-menu/)
