@@ -57,6 +57,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Balance Sheet](attribute-selectors/balance-sheet/)
 
 ### Responsive Design
+- [Piano](responsive-design/piano/)
 
 ### Variables
 
