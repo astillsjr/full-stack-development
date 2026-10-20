@@ -12,6 +12,10 @@ Build a card table with a board and a hand of playing cards as a certification p
 **Description**:  
 Build a book inventory table with read / to-read / in-progress rows and star ratings as a certification project. Practice attribute selectors (`[class="…"]`, `[class^="…"]`, `[class~="…"]`), descendant selectors for rate dots, and `linear-gradient` backgrounds.
 
+### Technical Documentation Page
+**Description**:  
+Build a JavaScript documentation page with a fixed sidebar and section anchors as a certification project. Practice a fixed navbar, in-page links, `scroll-behavior`, a dark color theme, and a media query for reduced motion.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.
