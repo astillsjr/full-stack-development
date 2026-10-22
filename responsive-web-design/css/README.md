@@ -62,6 +62,7 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### Variables
 - [City Skyline](variables/city-skyline/)
+- [Availability Table](variables/availability-table/)
 
 ### Grid
 
