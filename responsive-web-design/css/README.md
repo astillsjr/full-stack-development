@@ -61,6 +61,7 @@ A structured collection of small projects created while learning CSS and web dev
 - [Piano](responsive-design/piano/)
 
 ### Variables
+- [City Skyline](variables/city-skyline/)
 
 ### Grid
 
