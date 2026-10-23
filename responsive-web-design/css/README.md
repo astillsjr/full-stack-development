@@ -66,5 +66,6 @@ A structured collection of small projects created while learning CSS and web dev
 
 ### Grid
 - [Magazine](grid/magazine/)
+- [Newspaper Layout](grid/newspaper-layout/)
 
 ### Animations
