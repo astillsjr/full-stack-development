@@ -65,5 +65,6 @@ A structured collection of small projects created while learning CSS and web dev
 - [Availability Table](variables/availability-table/)
 
 ### Grid
+- [Magazine](grid/magazine/)
 
 ### Animations
