@@ -16,6 +16,10 @@ Build a book inventory table with read / to-read / in-progress rows and star rat
 **Description**:  
 Build a JavaScript documentation page with a fixed sidebar and section anchors as a certification project. Practice a fixed navbar, in-page links, `scroll-behavior`, a dark color theme, and a media query for reduced motion.
 
+### Product Landing Page
+**Description**:  
+Build a FocusPulse product landing page as a certification project. Practice a sticky header, in-page navigation, an email signup form, feature rows, an embedded demo, pricing cards, and a media query for reduced motion.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.
