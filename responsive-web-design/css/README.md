@@ -70,3 +70,4 @@ A structured collection of small projects created while learning CSS and web dev
 - [Newspaper Layout](grid/newspaper-layout/)
 
 ### Animations
+- [Ferris Wheel](animations/ferris-wheel/)
