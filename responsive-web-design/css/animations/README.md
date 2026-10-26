@@ -12,6 +12,10 @@ Build a spinning Ferris wheel with spokes and cabins. Practice `@keyframes` for 
 **Description**:  
 Build an earth with a moon circling it. Practice absolute centering, a linear infinite `@keyframes` animation, and combining `translate()` with `rotate()` so the orbit stays centered.
 
+### Flappy Penguin
+**Description**:  
+Build a waving penguin in a mountain scene. Practice custom properties for the penguin colors, absolute positioning for the face and body, `::before` for the belly, and a `@keyframes` wave on the left arm.
+
 ---
 
 Each project is self-contained within its own folder and includes an `index.html` file, along with a linked CSS file `styles.css` to showcase the applied styles.
