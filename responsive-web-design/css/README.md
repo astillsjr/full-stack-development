@@ -73,3 +73,4 @@ A structured collection of small projects created while learning CSS and web dev
 - [Ferris Wheel](animations/ferris-wheel/)
 - [Moon Orbit](animations/moon-orbit/)
 - [Flappy Penguin](animations/flappy-penguin/)
+- [Personal Portfolio](animations/personal-portfolio/)
