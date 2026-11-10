@@ -19,17 +19,19 @@ A structured collection of small projects created while learning JavaScript and 
 
 ### Loops
 
-### DOM Manipulation and Events
-
-### Form Validation
-
-### Debugging
+### JavaScript Fundamentals Review
 
 ### Higher-Order Functions and Callbacks
 
-### Classes
+### DOM Manipulation and Events
 
-### Recursion
+### JavaScript and Accessibility
+
+### Debugging
+
+### Basic Regex
+
+### Form Validation
 
 ### Dates
 
@@ -39,20 +41,18 @@ A structured collection of small projects created while learning JavaScript and 
 
 ### localStorage and CRUD Operations
 
-### Functional Programming
+### Classes
 
-### Asynchronous JavaScript
-
-### Basic Regex
-
-### JavaScript and Accessibility
-
-### Fundamentals Review
-
-### Algorithms
+### Recursion
 
 ### Data Structures
+
+### Algorithms
 
 ### Graphs and Trees
 
 ### Dynamic Programming
+
+### Functional Programming
+
+### Asynchronous JavaScript
