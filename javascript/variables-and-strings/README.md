@@ -8,6 +8,10 @@ This folder contains projects focused on JavaScript variables and strings. These
 **Description**:  
 Build a console greeting bot that introduces itself, shares where it lives, and talks about its nickname and favorite subject. Practice `let` and `const`, reassignment, string concatenation with `+`, and `console.log`.
 
+### Trivia Bot
+**Description**:  
+Build a console trivia bot that introduces itself, shares where it lives, and cycles through fascinating facts about programming. Practice `let` and `const`, variable reassignment, string concatenation with `+`, and `console.log`.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.
