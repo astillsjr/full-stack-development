@@ -12,6 +12,10 @@ Build a console greeting bot that introduces itself, shares where it lives, and 
 **Description**:  
 Build a console trivia bot that introduces itself, shares where it lives, and cycles through fascinating facts about programming. Practice `let` and `const`, variable reassignment, string concatenation with `+`, and `console.log`.
 
+### Sentence Maker
+**Description**:  
+Build a console story bot that fills in a Mad Libs-style template using variable reassignments to generate and print two different stories. Practice `let`, variable reassignment, string concatenation with `+`, and `console.log`.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.

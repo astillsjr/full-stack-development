@@ -9,6 +9,7 @@ A structured collection of small projects created while learning JavaScript and 
 ### Variables and Strings
 - [Greeting Bot](variables-and-strings/greeting-bot/)
 - [Trivia Bot](variables-and-strings/trivia-bot/)
+- [Sentence Maker](variables-and-strings/sentence-maker/)
 
 ### Booleans and Numbers
 
