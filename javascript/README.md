@@ -10,6 +10,7 @@ A structured collection of small projects created while learning JavaScript and 
 - [Greeting Bot](variables-and-strings/greeting-bot/)
 - [Trivia Bot](variables-and-strings/trivia-bot/)
 - [Sentence Maker](variables-and-strings/sentence-maker/)
+- [Teacher Chatbot](variables-and-strings/teacher-chatbot/)
 
 ### Booleans and Numbers
 
