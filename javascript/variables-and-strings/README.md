@@ -20,6 +20,10 @@ Build a console story bot that fills in a Mad Libs-style template using variable
 **Description**:  
 Build a console teacher bot that teaches about strings in JavaScript. Practice the `length` and `indexOf` methods, string indexing, and template literal syntax.
 
+### String Inspector
+**Description**:  
+Practice with the `includes` and `slice` methods.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.
