@@ -28,6 +28,10 @@ Practice with the `includes` and `slice` methods.
 **Description**:  
 Practice working with string methods used for formatting strings. Includes `trim`, `trimStart`, `trimEnd`, `toUpperCase`, and `toLowerCase`.
 
+### String Transformer
+**Description**:  
+Practice working with string methods used for modifying strings. Includes `replace`, `replaceAll`, and `repeat`.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.

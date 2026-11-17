@@ -13,6 +13,7 @@ A structured collection of small projects created while learning JavaScript and 
 - [Teacher Chatbot](variables-and-strings/teacher-chatbot/)
 - [String Inspector](variables-and-strings/string-inspector/)
 - [String Formatter](variables-and-strings/string-formatter/)
+- [String Transformer](variables-and-strings/string-transformer/)
 
 ### Booleans and Numbers
 
