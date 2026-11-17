@@ -24,6 +24,10 @@ Build a console teacher bot that teaches about strings in JavaScript. Practice t
 **Description**:  
 Practice with the `includes` and `slice` methods.
 
+### String Formatter
+**Description**:  
+Practice working with string methods used for formatting strings. Includes `trim`, `trimStart`, `trimEnd`, `toUpperCase`, and `toLowerCase`.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.

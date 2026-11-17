@@ -12,6 +12,7 @@ A structured collection of small projects created while learning JavaScript and 
 - [Sentence Maker](variables-and-strings/sentence-maker/)
 - [Teacher Chatbot](variables-and-strings/teacher-chatbot/)
 - [String Inspector](variables-and-strings/string-inspector/)
+- [String Formatter](variables-and-strings/string-formatter/)
 
 ### Booleans and Numbers
 
