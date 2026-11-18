@@ -16,6 +16,7 @@ A structured collection of small projects created while learning JavaScript and 
 - [String Transformer](variables-and-strings/string-transformer/)
 
 ### Booleans and Numbers
+- [Logic Checker](booleans-and-numbers/logic-checker/)
 
 ### Functions
 
