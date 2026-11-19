@@ -12,6 +12,10 @@ Practice working with conditional statements and comparison operators.
 **Description**:  
 Practice working with different `Math` object methods. Includes `random`, `floor`, `ciel`, `round`, `max`, and `min`.
 
+### Fortune Teller
+**Description**:  
+Build a fortune teller that "predicts" your fortune for the day. Practice using the `Math.random` method and conditional logic.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.
