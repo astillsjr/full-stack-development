@@ -8,6 +8,10 @@ This folder contains projects focused on booleans and numbers. These exercises r
 **Description**:  
 Practice working with conditional statements and comparison operators.
 
+### Mathbot
+**Description**:  
+Practice working with different `Math` object methods. Includes `random`, `floor`, `ciel`, `round`, `max`, and `min`.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.

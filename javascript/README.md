@@ -17,6 +17,7 @@ A structured collection of small projects created while learning JavaScript and 
 
 ### Booleans and Numbers
 - [Logic Checker](booleans-and-numbers/logic-checker/)
+- [Mathbot](booleans-and-numbers/mathbot/)
 
 ### Functions
 
