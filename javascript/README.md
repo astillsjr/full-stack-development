@@ -23,6 +23,7 @@ A structured collection of small projects created while learning JavaScript and 
 ### Functions
 - [Calculator](functions/calculator/)
 - [Boolean Check Function](functions/boolean-check-function/)
+- [Email Masker](functions/email-masker/)
 
 ### Arrays
 

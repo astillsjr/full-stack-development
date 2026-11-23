@@ -12,6 +12,10 @@ Build a basic calculator. Practice defining and invoking functions.
 **Description**:  
 Build a function that checks if a value is classified as a boolean primitve.
 
+### Email Masker
+**Description**:  
+Build a function that masks the username of a given email.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.
