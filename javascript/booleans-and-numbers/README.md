@@ -10,7 +10,7 @@ Practice working with conditional statements and comparison operators.
 
 ### Mathbot
 **Description**:  
-Practice working with different `Math` object methods. Includes `random`, `floor`, `ciel`, `round`, `max`, and `min`.
+Practice working with different `Math` object methods. Includes `random`, `floor`, `ceil`, `round`, `max`, and `min`.
 
 ### Fortune Teller
 **Description**:  
