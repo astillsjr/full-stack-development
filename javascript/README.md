@@ -21,6 +21,7 @@ A structured collection of small projects created while learning JavaScript and 
 - [Fortune Teller](booleans-and-numbers/fortune-teller/)
 
 ### Functions
+- [Calculator](functions/calculator/)
 
 ### Arrays
 
