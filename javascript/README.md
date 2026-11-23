@@ -24,6 +24,7 @@ A structured collection of small projects created while learning JavaScript and 
 - [Calculator](functions/calculator/)
 - [Boolean Check Function](functions/boolean-check-function/)
 - [Email Masker](functions/email-masker/)
+- [Loan Qualification Checker](functions/loan-qualification-checker/)
 
 ### Arrays
 

@@ -16,6 +16,10 @@ Build a function that checks if a value is classified as a boolean primitve.
 **Description**:  
 Build a function that masks the username of a given email.
 
+### Loan Qualification Checker
+**Description**:  
+Build a function that determines your eligibility for a loan, depending on your annual income and credit score.
+
 ---
 
 Each project is self-contained within its own folder and includes a `script.js` file.
