@@ -1,0 +1,1 @@
+const booWho = (value) => typeof value === "boolean";
